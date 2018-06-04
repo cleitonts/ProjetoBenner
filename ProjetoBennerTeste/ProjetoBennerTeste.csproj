@@ -48,8 +48,6 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Projeto1.cs" />
-    <Compile Include="Projeto2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Projeto4.cs" />
   </ItemGroup>

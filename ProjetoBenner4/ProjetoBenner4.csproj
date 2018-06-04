@@ -104,6 +104,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="duvidas.txt" />
+    <Content Include="Programas.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
