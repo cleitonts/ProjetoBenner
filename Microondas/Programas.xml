@@ -40,4 +40,12 @@
     <CharPadrao>P</CharPadrao>
     <Verificar>true</Verificar>
   </Programa>
+  <Programa>
+    <Nome>Rapido</Nome>
+    <Instrucao>Programa rapido</Instrucao>
+    <Tempo>30</Tempo>
+    <Potencia>8</Potencia>
+    <CharPadrao>R</CharPadrao>
+    <Verificar>false</Verificar>
+  </Programa>
 </ArrayOfPrograma>
